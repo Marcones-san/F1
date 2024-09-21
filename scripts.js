@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Aston Martin',
         'AlphaTauri',
         'Williams',
-        'Haas'
+        'Haas',
+        'Sauber',
     ];
 
     const calendario = [
