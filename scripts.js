@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'Aston Martin',
         'AlphaTauri',
         'Williams',
-        'Alfa Romeo',
         'Haas'
     ];
 
